@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Site](https://your-solution-url.com)
+- Solution URL: [Site](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/landing-page-using-flexbox-1jmUJko_pA)
 - Live Site URL: [Site](https://productprevcard.netlify.app/)
 
 ## My process
